@@ -1,0 +1,7 @@
+h1{
+    border-style: solid;
+    border-color: green;
+    text-decoration: aqua;
+    text-overflow: ellipsis;
+    text-shadow: brown;
+  }

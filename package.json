@@ -1,0 +1,26 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza8171/MEAN-STACK.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "HAMZA BHINDER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamza8171/MEAN-STACK/issues"
+  },
+  "homepage": "https://github.com/hamza8171/MEAN-STACK#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
