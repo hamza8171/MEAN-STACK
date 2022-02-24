@@ -1,0 +1,27 @@
+{
+  "name": "hamza",
+  "version": "1.0.0",
+  "description": "practice",
+  "start": "app.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0",
+    "moongoose": "^0.0.5",
+    "node": "^17.4.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza8171/MEAN-STACK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamza8171/MEAN-STACK/issues"
+  },
+  "homepage": "https://github.com/hamza8171/MEAN-STACK#readme"
+}
